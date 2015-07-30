@@ -1,0 +1,3521 @@
+2015-07-29 18:06:12 [info][] test
+ in /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:06:12 [info][] test2
+ in /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:06:12 [info][] test3
+ in /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:06:12 [info][] test3
+ in /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:06:34 [info][] test
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:06:34 [info][] test2
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:06:34 [info][] test3
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:06:34 [info][] test3
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:06:51 [info][] test
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:06:51 [info][] test2
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:06:51 [info][] test3
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:06:51 [info][] test3
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:07:50 [info][] test
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:07:50 [info][] test2
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:07:50 [info][] test3
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+
+2015-07-29 18:07:50 [info][] test3
+File: /home/wuxu/html/baseInfo/libs/Logger.php line: 54
+2015-07-29 18:08:06 [info][] test
+no trace found
+
+2015-07-29 18:08:06 [info][] test2
+no trace found
+2015-07-29 18:08:06 [info][] test3
+no trace found
+
+2015-07-29 18:08:06 [info][] test3
+no trace found
+2015-07-29 18:12:57 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+
+2015-07-29 18:12:57 [info][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+2015-07-29 18:12:57 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+
+2015-07-29 18:12:57 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+2015-07-29 18:14:49 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56\n    file: /home/wuxu/html/baseInfo/index.php line: 13
+
+2015-07-29 18:14:49 [info][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56\n    file: /home/wuxu/html/baseInfo/index.php line: 14
+2015-07-29 18:14:49 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56\n    file: /home/wuxu/html/baseInfo/index.php line: 15
+
+2015-07-29 18:14:49 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56\n    file: /home/wuxu/html/baseInfo/index.php line: 16
+2015-07-29 18:15:12 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+    file: /home/wuxu/html/baseInfo/index.php line: 13
+
+2015-07-29 18:15:12 [info][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+    file: /home/wuxu/html/baseInfo/index.php line: 14
+2015-07-29 18:15:12 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+    file: /home/wuxu/html/baseInfo/index.php line: 15
+
+2015-07-29 18:15:12 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+    file: /home/wuxu/html/baseInfo/index.php line: 16
+2015-07-29 18:16:58 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 13
+
+2015-07-29 18:16:58 [info][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+2015-07-29 18:16:58 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+
+2015-07-29 18:16:58 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+2015-07-29 18:17:13 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 13
+
+2015-07-29 18:17:13 [info][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+2015-07-29 18:17:13 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+
+2015-07-29 18:17:13 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+2015-07-29 18:17:19 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 13
+
+2015-07-29 18:17:19 [info][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+2015-07-29 18:17:19 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+
+2015-07-29 18:17:19 [info][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:18:51 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:18:51 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:18:51 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:18:51 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-29 18:19:44 [info][] test
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/index.php line: 14
+
+2015-07-29 18:19:44 [error][] test2
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 52
+ file: /home/wuxu/html/baseInfo/index.php line: 15
+2015-07-29 18:19:44 [trace][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+ file: /home/wuxu/html/baseInfo/index.php line: 16
+
+2015-07-29 18:19:44 [warning][] test3
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 64
+ file: /home/wuxu/html/baseInfo/index.php line: 17
+2015-07-30 10:46:36 [trace][] start: 1438224396.0751
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:46:36 [trace][] end: 0.07512700 1438224396 cost: 1438224396.0751
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:51:32 [trace][] start: 1438224692.1718
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:51:32 [trace][] end: 0.17192300 1438224692 cost: 1438224692.1719
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:53:40 [trace][] start: 1438224820.1117
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:53:40 [trace][] -1438224820.1117
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:56:04 [trace][] start: 1438224964.0611
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:56:04 [trace][] -1438224964.0611
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:56:04 [trace][] start: 1438224964.4783
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:56:04 [trace][] -1438224964.4783
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:56:47 [trace][] start: 1438225007.4655
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:56:47 [trace][] end: 1438225007.4655 cost: 7.5101852416992E-5
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:56:48 [trace][] start: 1438225008.0102
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:56:48 [trace][] end: 1438225008.0103 cost: 7.7009201049805E-5
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:58:50 [trace][] start: 1438225130.7664
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:58:50 [trace][] end: 1438225130.7675 cost: 0.0011241436004639
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 10:59:07 [trace][] start: 1438225147.3906
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+
+2015-07-30 10:59:07 [trace][] end: 1438225147.3907 cost: 8.2015991210938E-5
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 60
+2015-07-30 12:37:02 [info][uc] create sql:select * from {this->tableName} where ip_start<:ip order by ip_start desc limit 1 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 12:37:02 [info][uc] bind param count: 1
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:34:57 [info][uc] create sql:select * from {this->tableName} where ip_start<:ip order by ip_start desc limit 1 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:34:57 [info][uc] bind param count: 1
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:34:57 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:34:57 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:36:32 [info][uc] create sql:select * from {this->tableName} where ip_start<:ip order by ip_start desc limit 1 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:36:32 [info][uc] bind param count: 1
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:36:32 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:36:32 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:37:12 [info][uc] create sql:select * from {this->tableName} where ip_start<:ip order by ip_start desc limit 1 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:37:12 [info][uc] bind param count: 1
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:37:12 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:37:12 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:38:31 [info][uc] create sql:select * from ip_lookup where ip_start<:ip order by ip_start desc limit 1 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:38:31 [info][uc] bind param count: 1
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:38:31 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:38:31 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:40:26 [info][uc] create sql:select * from ip_lookup where ip_start<:ip order by ip_start desc limit 1 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:40:26 [info][uc] bind param count: 1
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:40:26 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:40:26 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:42:43 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '\'1.2.3.4\'',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:42:43 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:42:43 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:42:43 [info][zp] pdo statement: 
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:43:44 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '\'1.2.3.4\'',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 61
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:43:44 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:43:44 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+
+2015-07-30 14:43:44 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 62
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 28
+2015-07-30 14:48:47 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '\'1.2.3.4\'',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 14:48:47 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 14:48:47 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 14:48:47 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 14:49:45 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '1.2.3.4',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 63
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 14:49:45 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 14:49:45 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 14:49:45 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:30:25 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '1.2.3.4',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:30:25 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:30:25 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:30:25 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:31:15 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '10.2.3.4',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:31:15 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:31:15 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:31:15 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:35:10 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '0.0.0.0',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:35:10 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:35:10 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:35:10 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:35:22 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '23.56.3.1',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:35:22 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:35:22 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:35:22 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:35:42 [info][uc] create sql:select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => '111.206.85.19',
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 64
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:35:42 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:35:42 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+
+2015-07-30 15:35:42 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup where ip_start < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpSimple.php line: 65
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 30
+2015-07-30 15:54:00 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_start desc limit 1 with param: array (
+  ':ip' => 1875793171,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+
+2015-07-30 15:54:00 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+2015-07-30 15:54:00 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+
+2015-07-30 15:54:00 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_start desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+2015-07-30 15:54:45 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 1875793171,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+
+2015-07-30 15:54:45 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 189
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+2015-07-30 15:54:45 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 389
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
+
+2015-07-30 15:54:45 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
+ file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 32
