@@ -1,4 +1,6 @@
-<?php 
+<?php
+
+use libs\ZP;
 
 defined('DEBUG') or define('DEBUG', true);
 defined('APP_ROOT') or define('APP_ROOT', __DIR__);
@@ -8,7 +10,7 @@ require(__DIR__ . '/libs/autoload.php');
 $config = require(__DIR__ . '/config/main.php');
 
 // logger
-$logger = new libs\Logger();
+//$logger = new libs\Logger();
 function logtest() {
     //for ($i=0; $i<100; $i++) {
     //    $logger->info("test");
@@ -19,15 +21,28 @@ function logtest() {
 }
 
 logtest();
+global $startTime;
 $startTime = microtime(true);
-$logger->trace("start: " . $startTime);
+
+ZP::trace("start: " . $startTime);
 
 // get cat and cat
 $cat = 'Index';
-$act = 'Index';
+$act = 'index';
 
-if (!empty($_GET['cat'])) $cat = html_entity_decode($_GET['cat']);
-if (!empty($_GET['act'])) $act = html_entity_decode($_GET['act']);
+// change cat and act param to r
+if (!empty($_GET['r'])) {
+    $r = html_entity_decode($_GET['r']);
+    if (false === strpos($r, '/')) {
+        $cat = $r;
+    } else {
+        $r = explode('/', $r);
+        $cat = $r[0];
+        $act = $r[1];
+    }
+}
+//if (!empty($_GET['cat'])) $cat = html_entity_decode($_GET['cat']);
+//if (!empty($_GET['act'])) $act = html_entity_decode($_GET['act']);
 
 $catClass = 'cat\\' . ucfirst($cat) . 'Cat';
 $actMethod = $act . 'Action';
@@ -47,7 +62,7 @@ $result = $cat->$actMethod();
 
 var_dump($result);
 
-$logger->trace('end: ' . microtime(true) . ' cost: ' . (microtime(true)-$startTime));
+ZP::trace('end: ' . microtime(true) . ' cost: ' . (microtime(true)-$startTime));
 
 
 

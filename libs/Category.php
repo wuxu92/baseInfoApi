@@ -21,4 +21,18 @@ class Category {
     public function __construct() {
         $this->retObj = new RenderObject();
     }
+
+    public function postParam($idx, $default=null)
+    {
+        if (empty($_POST[$idx])) return $default;
+        return $_POST[$idx];
+    }
+
+    public function getParam($idx, $default = null)
+    {
+        if (empty($_GET[$idx])) {
+            return $default;
+        }
+        return $_GET[$idx];
+    }
 }

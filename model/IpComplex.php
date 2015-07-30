@@ -79,6 +79,9 @@ class IpComplex extends Model{
             $this->zip_code = $ipInfo['zip_code'];
             $this->time_zone = $ipInfo['time_zone'];
         }
+        unset($ipInfo['ip_from']);
+        unset($ipInfo['ip_to']);
+        $ipInfo['ip'] = $this->ipStr;
 
         return $ipInfo;
     }

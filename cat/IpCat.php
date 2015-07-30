@@ -25,7 +25,10 @@ class IpCat extends Category {
                 ->json(true);
         }
 
-        $ip = new IpComplex($ip);
+        $type = $this->getParam('type', 'simple');
+
+        if ($type == 'simple') $ip = new IpSimple($ip);
+        else $ip = new IpComplex($ip);
         // $ip = new IpSimple($ip);
 
         //var_dump($ip); exit;

@@ -61,6 +61,16 @@ class IpSimple extends Model{
     public function getIpInfo() {
         $ip = $this->ip;
 
+        if (!empty($this->country)) {
+            return array(
+                'ip' => $this->ipStr,
+                'country' => $this->country,
+                'prov' => $this->prov,
+                'city' => $this->city,
+                'version' => $this->version,
+            );
+        }
+
         $sql = "select * from {$this->tableName} where ip_start < :ip order by ip_start desc limit 1";
         $ipInfo = ZP::app()->db->createSql($sql, array(':ip' => $this->ipStr))
         ->queryOne();
@@ -74,6 +84,9 @@ class IpSimple extends Model{
             $this->version = $ipInfo['ipversion'];
         }
 
+        unset($ipInfo['ip_start']);
+        unset($ipInfo['ip_end']);
+        $ipInfo['ip'] = $this->ipStr;
         return $ipInfo;
     }
 

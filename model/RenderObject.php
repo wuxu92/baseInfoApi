@@ -7,6 +7,7 @@
  */
 
 namespace model;
+use libs\ZP;
 
 /**
  * Class RenderObject 用于返回给api调用的类
@@ -36,7 +37,13 @@ class RenderObject {
     public function append($data)
     {
         if (is_array($this->data)) {
-            $this->data[] = $data;
+            if (is_array($data)){
+                foreach ($data as $k => $v) {
+                    $this->data[$k] = $v;
+                }
+            } else {
+                $this->data[] = $data;
+            }
         }
         return $this;
     }
@@ -53,6 +60,10 @@ class RenderObject {
         ));
 
         if (true === $exit) {
+            // log
+            global $startTime;
+            ZP::trace('end: ' . microtime(true) . ' cost: ' . (microtime(true)-$startTime));
+
             exit($exitCode);
         }
     }
