@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Administrator
+ * User: wuxu@zplay.com
  * Date: 2015/7/30
  * Time: 11:16
  */
@@ -11,16 +11,34 @@ namespace libs;
 
 class ExceptionHandler {
 
-    public function exceptionHandler() {
-        http_send_status(500);
-
+    /**
+     * @param $ex \Exception
+     */
+    public function exceptionHandler($ex) {
+        if (function_exists('http_response_code')) http_response_code(500);
+        else header("HTTP/1.0 500 error");
+        echo json_encode(array(
+            'status' => 500,
+            'msg' => 'server internal exception',
+            'data' => $ex->getMessage()
+        ));
+        exit(1);
     }
 
-    public function errorHandler() {
-
+    public function errorHandler($code, $message, $file, $line) {
+        if (function_exists('http_response_code')) http_response_code(500);
+        else header("HTTP/1.0 500 error");
+        echo json_encode(array(
+            'status' => 500,
+            'msg' => 'server internal error',
+            'data' => "error code: $code, message: " . htmlentities($message) . ", from file: $file, at line: $line"
+        ));
+        exit(1);
     }
 
     public function register() {
+        set_exception_handler(array($this, 'exceptionHandler'));
+        set_error_handler(array($this, 'errorHandler'));
     }
 
     public function unregister() {
