@@ -30,11 +30,17 @@ class ZP {
     public $db;
 
     public static function setLogger() {
-        static::$logger = new Logger();
+        self::$logger = new Logger();
+        //var_dump(self::$logger);
     }
 
     public function setDb($config=null) {
         $this->db = new DBConnector($config);
+    }
+
+    public static function init() {
+        $i = self::app();
+        //var_dump($i);exit;
     }
 
     public static function app() {
@@ -48,26 +54,26 @@ class ZP {
     }
 
     public static function error($msg, $cate=null) {
-        static::$logger->log($msg, Logger::LEVEL_ERROR, $cate);
+        self::$logger->log($msg, Logger::LEVEL_ERROR, $cate);
     }
 
     public static function info($msg, $cate=null) {
-        static::$logger->log($msg, Logger::LEVEL_INFO, $cate);
+        self::$logger->log($msg, Logger::LEVEL_INFO, $cate);
     }
 
     public static function trace($msg, $cate=null) {
         if (defined(DEBUG) && DEBUG) {
-            static::$logger->log($msg, Logger::LEVEL_TRACE, $cate);
+            self::$logger->log($msg, Logger::LEVEL_TRACE, $cate);
         }
     }
 
     public static function warning($msg, $cate=null) {
-        static::$logger->log($msg, Logger::LEVEL_WARNING, $cate);
+        self::$logger->log($msg, Logger::LEVEL_WARNING, $cate);
     }
 
     public static function profile($msg, $cate=null) {
         if (defined(DEBUG) && DEBUG) {
-            static::$logger->log($msg, Logger::LEVEL_PROFILE, $cate);
+            self::$logger->log($msg, Logger::LEVEL_PROFILE, $cate);
         }
     }
 

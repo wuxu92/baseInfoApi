@@ -10,6 +10,7 @@ namespace cat;
 
 use libs\Category;
 use libs\Exception\ErrorCode;
+use model\City;
 
 class CityCat extends Category {
 
@@ -21,12 +22,16 @@ class CityCat extends Category {
     public function locateAction() {
 
         // 查找两个参数
-        $longitude = $this->getParam('longitude');
-        $latitude = $this->getParam('latitude');
+        $longitude = floatval($this->getParam('longitude'));
+        $latitude = floatval($this->getParam('latitude'));
 
         if (null === $longitude || null === $latitude) {
             $this->error(ErrorCode::INVALID_PARAM, true);
         }
 
+        // 查找城市
+
+        $city = new City($longitude, $latitude);
+        $this->retObj->append($city->getNearestCity())->json();
     }
 }

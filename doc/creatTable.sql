@@ -42,3 +42,22 @@ create TABLE if not exists `city_lookup` (
   key `latitude` (`latitude`),
   key `longitude` (`longitude`)
 ) engine=MyISAM default CHARSET=utf8 COLLATE=utf8_bin;
+
+DROP TABLE IF EXISTS `city_china`;
+CREATE TABLE `city_china` (
+  `id` int(7) NOT NULL COMMENT '主键',
+  `name` varchar(40) DEFAULT NULL COMMENT '省市区名称',
+  `parentid` int(7) DEFAULT NULL COMMENT '上级ID',
+  `shortname` varchar(40) DEFAULT NULL COMMENT '简称',
+  `leveltype` tinyint(2) DEFAULT NULL COMMENT '级别:0, 中国；1，省分；2，市；3，区、县',
+  `citycode` varchar(7) DEFAULT NULL COMMENT '城市代码',
+  `zipcode` varchar(7) DEFAULT NULL COMMENT '邮编',
+  `longitude` varchar(20) DEFAULT NULL COMMENT '经度',
+  `latitude` varchar(20) DEFAULT NULL COMMENT '纬度',
+  `pinyin` varchar(40) DEFAULT NULL COMMENT '拼音',
+  `status` enum('0','1') DEFAULT '1',
+  key `idx_name` (`name`),
+  key `idx_longitude` (`longitude`),
+  key `idx_latitude` (`latitude`),
+  key `idx_citycode` (`citycode`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;

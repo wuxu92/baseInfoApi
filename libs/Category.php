@@ -36,12 +36,24 @@ class Category {
         return $_GET[$idx];
     }
 
+    /**
+     * RenderObject 的json方法代理
+     * @return $this
+     */
     public function json() {
         $this->retObj->json(true, 0);
+        return $this;
     }
 
+    /**
+     * RenderObject 的error方法代理
+     * @param $code
+     * @param bool $exit
+     * @return $this
+     */
     public function error($code, $exit = false)
     {
         $this->retObj->error($code, $exit);
+        return $this;
     }
 }

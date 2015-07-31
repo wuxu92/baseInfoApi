@@ -30,6 +30,7 @@ logtest();
 global $startTime;
 $startTime = microtime(true);
 
+ZP::init();
 ZP::trace("start: " . $startTime);
 
 // get cat and cat

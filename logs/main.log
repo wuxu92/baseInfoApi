@@ -4184,3 +4184,124 @@ file: /home/wuxu/html/baseInfo/libs/ZP.php line: 55
  file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
  file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 68
  file: /home/wuxu/html/baseInfo/cat/IpCat.php line: 35
+2015-07-31 18:46:42 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 1875793171,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-07-31 18:46:42 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-07-31 18:46:42 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-07-31 18:46:42 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-07-31 18:47:02 [info][uc] create sql:select * from city_lookup where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 65
+2015-07-31 18:47:02 [info][uc] bind param count: 4
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/City.php line: 712015-07-31 18:47:02 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+2015-07-31 18:47:02 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 2952015-07-31 18:47:36 [info][uc] create sql:select * from city_lookup where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 65
+2015-07-31 18:47:36 [info][uc] bind param count: 4
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/City.php line: 712015-07-31 18:47:36 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+2015-07-31 18:47:36 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 2952015-07-31 18:56:55 [info][uc] create sql:select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 66
+2015-07-31 18:56:55 [info][uc] bind param count: 4
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/City.php line: 722015-07-31 18:56:55 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+2015-07-31 18:56:55 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 2952015-07-31 18:57:49 [info][uc] create sql:select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 66
+2015-07-31 18:57:49 [info][uc] bind param count: 4
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 259
+ file: /home/wuxu/html/baseInfo/model/City.php line: 722015-07-31 18:57:49 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 176
+2015-07-31 18:57:49 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 2952015-07-31 18:58:19 [info][uc] create sql:select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+  ':fromLati' => 24.5,
+  ':toLati' => 24.5,
+  ':fromLongi' => 115.5,
+  ':toLongi' => 115.5,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 71
+2015-07-31 18:58:19 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-07-31 18:58:19 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-07-31 18:58:19 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3302015-07-31 19:00:22 [info][uc] create sql:select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+  ':fromLati' => 24.5,
+  ':toLati' => 25.5,
+  ':fromLongi' => 115.5,
+  ':toLongi' => 116.5,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 71
+2015-07-31 19:00:22 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-07-31 19:00:22 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-07-31 19:00:22 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 330

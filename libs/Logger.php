@@ -34,7 +34,7 @@ class Logger {
     public $maxLogFiles = 5;
     public $rotateByCopy= true;
 
-    public $flushInterval = 10;
+    public $flushInterval = 1;
     public $traceLevel = 3;
 
     /**
@@ -70,6 +70,9 @@ class Logger {
 
     public function log($message, $level, $cate = 'app') {
         $time = microtime(true);
+
+        //var_dump($time);exit;
+
         // get one trace level
         $ts = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS);
         array_pop($ts);
@@ -108,6 +111,8 @@ class Logger {
      * write log messages to file
      */
     public function export() {
+        //var_dump("export"); exit;
+
         $text = implode("\n", array_map(array($this, 'formatMessage'), $this->messages));
 
         // empty the old array
