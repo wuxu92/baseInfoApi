@@ -7,6 +7,7 @@
  */
 
 namespace model;
+use libs\Exception\ErrorCode;
 use libs\ZP;
 
 /**
@@ -49,7 +50,7 @@ class RenderObject {
     }
 
     /**
-     * @param bool $exit 是否输出内容后退出程序
+     * @param bool $exit 是否输出内容后退出程序,默认json后会退出
      * @param int $exitCode
      */
     public function json($exit = true, $exitCode=0) {
@@ -66,6 +67,27 @@ class RenderObject {
 
             exit($exitCode);
         }
+    }
+
+    /**
+     * 通过 ErrorCode 设置返回对象的内容，如果设置了exit参数为true，则直接调用json方法并退出程序
+     * 否则应该在后面手动调用json()方法退出
+     * @param $errorCode int
+     * @param bool $exit
+     * @return $this
+     */
+    public function error($errorCode, $exit=false) {
+        if (isset(ErrorCode::$errorMsg[$errorCode])) {
+            $this->status = $errorCode;
+            $this->msg = ErrorCode::$errorMsg[$errorCode];
+        }
+        $this->status = $errorCode;
+
+        if (true === $exit) {
+            $this->json(true, 1);
+        }
+
+        return $this;
     }
 
 }

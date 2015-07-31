@@ -34,8 +34,8 @@ class Logger {
     public $maxLogFiles = 5;
     public $rotateByCopy= true;
 
-    public $flushInterval = 1;
-    public $traceLevel = 12;
+    public $flushInterval = 10;
+    public $traceLevel = 3;
 
     /**
      * 暂存日志记录
@@ -152,7 +152,7 @@ class Logger {
         if (!empty($ts)) $trace = implode("\n ", $ts);
         $sessionId = session_id();
 
-        return date('Y-m-d H:i:s', $time) . " {$sessionId}[$level][$cate] $text\n$trace\n";
+        return date('Y-m-d H:i:s', $time) . " {$sessionId}[$level][$cate] $text\n$trace";
     }
 
     /**

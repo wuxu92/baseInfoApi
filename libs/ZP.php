@@ -17,7 +17,7 @@ class ZP {
     /**
      * @var ZP
      */
-    public static  $ins;
+    private static  $ins;
 
     /**
      * @var Logger

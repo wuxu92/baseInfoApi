@@ -35,4 +35,13 @@ class Category {
         }
         return $_GET[$idx];
     }
+
+    public function json() {
+        $this->retObj->json(true, 0);
+    }
+
+    public function error($code, $exit = false)
+    {
+        $this->retObj->error($code, $exit);
+    }
 }

@@ -31,7 +31,7 @@ class ExceptionHandler {
         echo json_encode(array(
             'status' => 500,
             'msg' => 'server internal error',
-            'data' => "error code: $code, message: " . htmlentities($message) . ", from file: $file, at line: $line"
+            'data' => "error code: $code, message: " . ($message) . ", from file: $file, at line: $line"
         ));
         exit(1);
     }
