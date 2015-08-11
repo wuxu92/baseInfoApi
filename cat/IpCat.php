@@ -57,6 +57,7 @@ class IpCat extends Category {
         }
 
         $qqwry = new \qqwry(APP_ROOT . '/ext/qqwry.dat');
+        //var_dump(serialize($qqwry));
         list($addr1,$addr2)=$qqwry->q($ip);
         $addr1=iconv('GB2312','UTF-8',$addr1);
         $addr2=iconv('GB2312','UTF-8',$addr2);
