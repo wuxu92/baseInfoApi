@@ -17,6 +17,7 @@ class City extends Model {
 
     public $tableName = 'city_china';
     //public $tableName = 'city_lookup';
+    public $globalTable = 'city_lookup';
 
     public $country;
     public $city;
@@ -52,7 +53,7 @@ class City extends Model {
      * @param $N
      * @return mixed
      */
-    public function getNearNCities($N) {
+    public function getNearNCities($N=1) {
         $rangeLati = GeoHelper::calcNearLatitude($this->originLatitude, 100);
         $rangeLongi = GeoHelper::calcNearLongitude($this->originLongitude, 100);
 

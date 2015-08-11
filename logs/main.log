@@ -4304,4 +4304,151 @@ file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
 ))
 file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
  file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
- file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 330
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3302015-08-10 10:46:28 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 1875793170,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 10:46:28 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 10:46:28 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 10:46:28 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-10 11:00:52 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 2063731733,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 11:00:52 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 11:00:52 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 11:00:52 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-10 11:01:19 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 2063731733,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 11:01:19 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 11:01:19 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 11:01:19 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-10 11:03:51 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 2063731733,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 11:03:51 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 11:03:51 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 11:03:51 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-10 11:15:27 [info][uc] create sql:select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100 with param: array (
+  ':fromLati' => 24.5,
+  ':toLati' => 25.5,
+  ':fromLongi' => 115.5,
+  ':toLongi' => 116.5,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/City.php line: 71
+2015-08-10 11:15:27 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 11:15:27 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 11:15:27 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from city_china where latitude>:fromLati and latitude<:toLati and longitude>:fromLongi and longitude<:toLongi limit 100',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3302015-08-10 12:10:17 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 2063731733,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 12:10:17 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 12:10:17 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 12:10:17 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-10 12:16:19 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 2063731733,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 12:16:19 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 12:16:19 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 12:16:19 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-10 14:39:31 [info][uc] create sql:select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1 with param: array (
+  ':ip' => 2063731733,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/IpComplex.php line: 67
+2015-08-10 14:39:31 [info][uc] open from pool
+file: /home/wuxu/html/baseInfo/libs/Logger.php line: 56
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 122
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 1762015-08-10 14:39:31 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-10 14:39:31 [info][zp] pdo statement: PDOStatement::__set_state(array(
+   'queryString' => 'select * from ip_lookup_db11 where ip_from < :ip order by ip_from desc limit 1',
+))
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320

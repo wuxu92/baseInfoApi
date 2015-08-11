@@ -19,7 +19,7 @@ class IpCat extends Category {
     }
 
     public function queryAction() {
-        $ip = $_GET['ip'];
+        $ip = $this->getParam('ip');
         if (empty($ip)) {
             $this->retObj->append('参数不正确')
                 ->json(true);
@@ -37,9 +37,35 @@ class IpCat extends Category {
         $this->retObj->append($data)
             ->json(true);
 
-
+        // ignore below
         return array(
             'request' => 'ipQuery'
         );
+    }
+
+    public function qqwryAction() {
+
+        $ip = $this->getParam('ip');
+        if (empty($ip)) {
+            $this->retObj->append('参数不正确')
+                ->json(true);
+        }
+
+        if ( !filter_var($ip, FILTER_VALIDATE_IP)) {
+            $this->retObj->append('ip参数格式不正确')
+                ->json(true);
+        }
+
+        $qqwry = new \qqwry(APP_ROOT . '/ext/qqwry.dat');
+        list($addr1,$addr2)=$qqwry->q($ip);
+        $addr1=iconv('GB2312','UTF-8',$addr1);
+        $addr2=iconv('GB2312','UTF-8',$addr2);
+        $this->retObj->append(array($addr1, $addr2))
+            ->json(true);
+
+        //$arr=$qqwry->q('64.233.187.99');
+        //$arr[0]=iconv('GB2312','UTF-8',$arr[0]);
+        //$arr[1]=iconv('GB2312','UTF-8',$arr[1]);
+        //echo $arr[0],'|',$arr[1],"<br/>";
     }
 }
