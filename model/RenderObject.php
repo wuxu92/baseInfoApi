@@ -62,10 +62,8 @@ class RenderObject {
 
         if (true === $exit) {
             // log
-            global $startTime;
-            ZP::trace('end: ' . microtime(true) . ' cost: ' . (microtime(true)-$startTime));
-
-            exit($exitCode);
+            //global $startTime;
+            ZP::end($exitCode);
         }
     }
 

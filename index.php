@@ -14,19 +14,6 @@ $config = require(__DIR__ . '/config/main.php');
 $exHandler = new \libs\ExceptionHandler();
 $exHandler->register();
 
-
-// logger
-//$logger = new libs\Logger();
-function logtest() {
-    //for ($i=0; $i<100; $i++) {
-    //    $logger->info("test");
-    //    $logger->error("test2");
-    //    $logger->trace("test3");
-    //    $logger->warning("test3");
-    //}
-}
-
-logtest();
 global $startTime;
 $startTime = microtime(true);
 
@@ -48,8 +35,6 @@ if (!empty($_GET['r'])) {
         $act = $r[1];
     }
 }
-//if (!empty($_GET['cat'])) $cat = html_entity_decode($_GET['cat']);
-//if (!empty($_GET['act'])) $act = html_entity_decode($_GET['act']);
 
 $catClass = "cat\\" . ucfirst($cat) . 'Cat';
 $actMethod = $act . 'Action';
@@ -71,7 +56,6 @@ $result = $cat->$actMethod();
 
 var_dump($result);
 
-ZP::trace('end: ' . microtime(true) . ' cost: ' . (microtime(true)-$startTime));
-
+ZP::end(0);
 
 

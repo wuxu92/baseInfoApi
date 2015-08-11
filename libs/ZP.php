@@ -77,4 +77,11 @@ class ZP {
         }
     }
 
+    public static function end($exitCode = 0)
+    {
+        global $startTime;
+        ZP::trace('end: ' . microtime(true) . ' cost time: ' . microtime(true) - $startTime);
+        exit($exitCode);
+    }
+
 }
