@@ -18,7 +18,7 @@ global $startTime;
 $startTime = microtime(true);
 
 ZP::init();
-ZP::trace("start: " . $startTime);
+ZP::info("start: " . $startTime, null, false);
 
 // get cat and cat
 $cat = 'Index';

@@ -36,6 +36,7 @@ class Logger {
 
     public $flushInterval = 1;
     public $traceLevel = 3;
+    public $oldTraceLevel = 0;
 
     /**
      * 暂存日志记录
@@ -68,7 +69,7 @@ class Logger {
         $this->log($msg, self::LEVEL_PROFILE, $cate);
     }
 
-    public function log($message, $level, $cate = 'app') {
+    public function log($message, $level, $cate = 'app', $trace=true) {
         $time = microtime(true);
 
         //var_dump($time);exit;
@@ -79,7 +80,7 @@ class Logger {
         //$lastTrace = $ts[1];
 
         $traces = [];
-        if ($this->traceLevel > 0) {
+        if ($this->traceLevel > 0 && $trace) {
             $count = 0;
             $ts = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS);
             array_pop($ts); // remove the last trace since it would be the entry script, not very useful
@@ -147,7 +148,7 @@ class Logger {
         $level = $this->getLevelName($level);
 
         // 只有一个trace
-        $trace = 'no trace found';
+        $trace = '';
         $ts = [];
         if (isset($msg[4])) {
             foreach ($msg[4] as $trace) {
@@ -210,6 +211,15 @@ class Logger {
         $this->messages = array();
 
         $this->export();
+    }
+
+    public function closeTrace() {
+        $this->oldTraceLevel = $this->traceLevel;
+        $this->traceLevel = 0;
+    }
+
+    public function restoreTrace() {
+        $this->traceLevel = $this->oldTraceLevel;
     }
 
 }

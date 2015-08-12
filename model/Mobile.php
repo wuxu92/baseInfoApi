@@ -42,6 +42,9 @@ class Mobile extends Model {
 
         if (empty($row)) return $m;
 
+        //var_dump(defined('DEBUG') && DEBUG); exit();
+
+
         $m->id = $row['id'];
         $m->number = $row['number'];
         $m->city = $row['city'];
@@ -49,6 +52,7 @@ class Mobile extends Model {
         $m->areacode = $row['areacode'];
         $m->zipcode  = $row['zipcode'];
 
+        ZP::trace("mobile @" . $m->id);
         return $m;
     }
 }

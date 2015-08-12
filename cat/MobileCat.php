@@ -39,6 +39,8 @@ class MobileCat extends Category {
             'areacode' => $m->areacode,
             'zipcode'  => $m->zipcode
         ))->json();
+
+        // 忽略，下面的代码不会执行
         return $m;
     }
 }

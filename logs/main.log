@@ -4541,4 +4541,90 @@ file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
 ))
 file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
  file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 391
- file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 320
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 3202015-08-11 17:50:54 [info][] start: 1439286654.9286
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+2015-08-11 17:50:54 [info][] -1439286654.9286
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/ZP.php line: 83
+ file: /home/wuxu/html/baseInfo/model/RenderObject.php line: 662015-08-11 17:52:07 [info][] start: 1439286727.9468
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+2015-08-11 17:52:07 [info][] end: 1439286727.9483 cost time: 0.0015501976013184
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/ZP.php line: 83
+ file: /home/wuxu/html/baseInfo/model/RenderObject.php line: 662015-08-11 17:57:33 [info][] start: 1439287053.8318
+no trace found
+2015-08-11 17:57:33 [info][] end: 1439287053.8412 cost time: 0.0093448162078857
+no trace found2015-08-11 17:58:55 [info][] start: 1439287135.4596
+
+2015-08-11 17:58:55 [info][] end: 1439287135.4615 cost time: 0.0018830299377441
+2015-08-11 17:59:41 [info][] start: 1439287181.6234
+
+2015-08-11 17:59:41 [info][] end: 1439287181.6243 cost time: 0.0008699893951416
+2015-08-11 18:00:42 [info][] start: 1439287242.1312
+
+2015-08-11 18:00:42 [info][] end: 1439287242.1321 cost time: 0.00086784362792969
+2015-08-11 18:01:01 [info][] start: 1439287261.1247
+
+2015-08-11 18:01:01 [info][] end: 1439287261.1256 cost time: 0.0010001659393311
+2015-08-11 18:01:06 [info][] start: 1439287266.0929
+
+2015-08-11 18:01:06 [info][uc] create sql:select * from mobile_lookup where number=:number with param: array (
+  'number' => 1520161,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 412015-08-11 18:02:37 [info][] start: 1439287357.002
+
+2015-08-11 18:02:37 [info][uc] create sql:select * from mobile_lookup where number=:number with param: array (
+  'number' => 1520161,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 412015-08-11 18:02:48 [info][] start: 1439287368.5103
+
+2015-08-11 18:02:48 [info][uc] create sql:select * from mobile_lookup where number=:number with param: array (
+  'number' => 1520161,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 412015-08-11 18:03:22 [info][] start: 1439287402.3265
+
+2015-08-11 18:03:22 [info][uc] create sql:select * from mobile_lookup where number=:number with param: array (
+  'number' => 1520161,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 412015-08-11 18:03:28 [info][] start: 1439287408.6305
+
+2015-08-11 18:03:28 [info][uc] create sql:select * from mobile_lookup where number=:number with param: array (
+  'number' => 1520161,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 412015-08-11 18:03:28 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-11 18:03:28 [trace][] mobile
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 66
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 47
+ file: /home/wuxu/html/baseInfo/cat/MobileCat.php line: 352015-08-11 18:04:02 [info][] start: 1439287442.6239
+
+2015-08-11 18:04:02 [info][uc] create sql:select * from mobile_lookup where number=:number with param: array (
+  'number' => 1520161,
+)
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 248
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 412015-08-11 18:04:02 [info][uc] query at slave:
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 61
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 191
+ file: /home/wuxu/html/baseInfo/libs/DBConnector.php line: 295
+2015-08-11 18:04:02 [trace][] mobile @150162
+file: /home/wuxu/html/baseInfo/libs/ZP.php line: 66
+ file: /home/wuxu/html/baseInfo/model/Mobile.php line: 55
+ file: /home/wuxu/html/baseInfo/cat/MobileCat.php line: 352015-08-11 18:13:40 [info][] start: 1439288020.997
+
+2015-08-11 18:13:40 [info][] end: 1439288020.9978 cost time: 0.00082683563232422
+2015-08-11 18:19:34 [info][] start: 1439288374.0467
+
+2015-08-11 18:19:34 [info][] end: 1439288374.0476 cost time: 0.00085592269897461

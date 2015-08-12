@@ -119,7 +119,7 @@ class DBConnector {
      */
     public function openDBFromPool($pool, $baseConfig)
     {
-        ZP::$logger->info('open from pool', 'uc');
+        //ZP::$logger->info('open from pool', 'uc');
 
         if (empty($pool)) {
             return null;
@@ -188,7 +188,7 @@ class DBConnector {
     {
         $dbc = $this->getSlave(false);
 
-        ZP::info("query at slave:" . $this->dsn, 'uc');
+        //ZP::info("query at slave:" . $this->dsn, 'uc');
         // var_dump($dbc);
         
         if ($dbc === null) {
@@ -204,7 +204,7 @@ class DBConnector {
     public function getMasterPdo()
     {
         $this->open();
-        ZP::info('execute at master:' . $this->dsn, 'uc');
+        //ZP::info('execute at master:' . $this->dsn, 'uc');
         return $this->pdo;
     }
 
@@ -256,7 +256,7 @@ class DBConnector {
             $this->bindParam($name, $value);
         }
 
-        ZP::info("bind param count: " . count($this->_bindParam), 'uc');
+        //ZP::info("bind param count: " . count($this->_bindParam), 'uc');
         return $this;
     }
 
@@ -388,7 +388,7 @@ class DBConnector {
     {
         $this->prepareSql(true);
 
-        ZP::info("pdo statement: " . var_export($this->pdoStatement, true), 'zp');
+        //ZP::info("pdo statement: " . var_export($this->pdoStatement, true), 'zp');
         try {
             $this->pdoStatement->execute();
 

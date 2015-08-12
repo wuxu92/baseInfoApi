@@ -57,12 +57,12 @@ class ZP {
         self::$logger->log($msg, Logger::LEVEL_ERROR, $cate);
     }
 
-    public static function info($msg, $cate=null) {
-        self::$logger->log($msg, Logger::LEVEL_INFO, $cate);
+    public static function info($msg, $cate=null, $trace=true) {
+        self::$logger->log($msg, Logger::LEVEL_INFO, $cate, $trace);
     }
 
     public static function trace($msg, $cate=null) {
-        if (defined(DEBUG) && DEBUG) {
+        if (defined('DEBUG') && DEBUG) {
             self::$logger->log($msg, Logger::LEVEL_TRACE, $cate);
         }
     }
@@ -80,7 +80,10 @@ class ZP {
     public static function end($exitCode = 0)
     {
         global $startTime;
-        ZP::trace('end: ' . microtime(true) . ' cost time: ' . microtime(true) - $startTime);
+        //ZP::$logger->closeTrace();
+        ZP::info('end: ' . microtime(true) . ' cost time: ' . (microtime(true) - $startTime), null, false);
+        //ZP::$logger->restoreTrace();
+
         exit($exitCode);
     }
 
