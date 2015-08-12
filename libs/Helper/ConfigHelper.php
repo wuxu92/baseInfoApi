@@ -17,10 +17,22 @@ class ConfigHelper {
 
     public static $instance;
 
+    /**
+     * @var string
+     */
     public $configPath;
+    /**
+     * @var array
+     */
+    public $config;
 
-    public function __construct() {
-        $this->configPath = APP_ROOT . '/config/main.php';
+    public function __construct($path = 'config/main.php') {
+        $this->configPath = APP_ROOT . '/' . $path;
+        if (is_file($this->configPath)) {
+            $this->config = require($this->configPath);
+        } else {
+            $this->config = array();
+        }
     }
 
 }

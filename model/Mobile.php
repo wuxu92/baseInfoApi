@@ -44,7 +44,6 @@ class Mobile extends Model {
 
         //var_dump(defined('DEBUG') && DEBUG); exit();
 
-
         $m->id = $row['id'];
         $m->number = $row['number'];
         $m->city = $row['city'];
